@@ -1,0 +1,221 @@
+Medical Conditions,Medications & Treatments,Hair Loss,count
+No medical problems,No medications & treatment,0,1
+Eczema,Antibiotics,0,5
+Dermatosis,Antifungal Cream,0,6
+Ringworm,Antibiotics,0,4
+Psoriasis,Accutane,1,5
+Psoriasis,Antibiotics,1,8
+No medical problems,No medications & treatment,1,1
+Dermatosis,Chemotherapy,0,5
+Eczema,Steroids,1,5
+Ringworm,Rogaine,0,3
+Eczema,Blood Pressure Medication,0,6
+Alopecia Areata ,Accutane,1,9
+Scalp Infection,Immunomodulators,1,2
+Psoriasis,Antibiotics,0,3
+Scalp Infection,Rogaine,0,9
+Seborrheic Dermatitis,Antidepressants ,0,3
+Dermatosis,Antibiotics,1,6
+Dermatosis,Accutane,0,4
+Seborrheic Dermatitis,Chemotherapy,1,3
+Seborrheic Dermatitis,Accutane,1,8
+No medical problems,Chemotherapy,1,5
+Scalp Infection,Antidepressants ,1,8
+Dermatitis,Antibiotics,0,3
+Dermatosis,Heart Medication ,0,8
+Dermatosis,Immunomodulators,0,2
+Seborrheic Dermatitis,Antifungal Cream,0,2
+Thyroid Problems,Chemotherapy,0,3
+Dermatitis,Chemotherapy,0,5
+Dermatitis,Antibiotics,1,7
+Dermatitis,Steroids,0,6
+Ringworm,Steroids,1,5
+Alopecia Areata ,Antibiotics,1,4
+Eczema,Heart Medication ,1,8
+Scalp Infection,Chemotherapy,0,3
+Seborrheic Dermatitis,Steroids,0,4
+No medical problems,Chemotherapy,0,4
+Dermatosis,Immunomodulators,1,3
+Dermatosis,Blood Pressure Medication,1,6
+Thyroid Problems,Rogaine,1,8
+Androgenetic Alopecia,Accutane,1,4
+Androgenetic Alopecia,Steroids,0,3
+No medical problems,Steroids,1,5
+No medical problems,Blood Pressure Medication,1,3
+Scalp Infection,Immunomodulators,0,7
+Androgenetic Alopecia,Rogaine,1,8
+Psoriasis,Blood Pressure Medication,1,7
+Seborrheic Dermatitis,Antibiotics,1,5
+Androgenetic Alopecia,Heart Medication ,0,4
+Alopecia Areata ,Blood Pressure Medication,1,7
+Thyroid Problems,Steroids,1,7
+Ringworm,Blood Pressure Medication,0,4
+Thyroid Problems,Antidepressants ,1,3
+No medical problems,Antifungal Cream,0,6
+Androgenetic Alopecia,Chemotherapy,1,7
+No medical problems,Antidepressants ,0,9
+Dermatitis,Rogaine,0,5
+Psoriasis,Chemotherapy,1,4
+Dermatitis,Antidepressants ,0,8
+Dermatosis,Rogaine,1,6
+Seborrheic Dermatitis,Antibiotics,0,4
+Thyroid Problems,Accutane,0,8
+Seborrheic Dermatitis,Heart Medication ,1,4
+Alopecia Areata ,Steroids,1,6
+Dermatosis,Heart Medication ,1,4
+Psoriasis,Antidepressants ,1,4
+Seborrheic Dermatitis,Blood Pressure Medication,1,6
+Androgenetic Alopecia,Antifungal Cream,1,6
+Seborrheic Dermatitis,Immunomodulators,1,3
+No medical problems,Heart Medication ,0,8
+No medical problems,Immunomodulators,1,6
+Androgenetic Alopecia,Blood Pressure Medication,0,3
+Seborrheic Dermatitis,Accutane,0,6
+Scalp Infection,Antifungal Cream,0,5
+Ringworm,Antifungal Cream,0,4
+Dermatosis,Antidepressants ,0,3
+Androgenetic Alopecia,Heart Medication ,1,6
+Alopecia Areata ,Rogaine,0,2
+Dermatitis,Steroids,1,4
+Dermatosis,Antifungal Cream,1,4
+Thyroid Problems,Steroids,0,7
+Ringworm,Heart Medication ,1,6
+Seborrheic Dermatitis,Rogaine,0,3
+Ringworm,Heart Medication ,0,2
+Psoriasis,Antifungal Cream,0,6
+Thyroid Problems,Antidepressants ,0,9
+Ringworm,Antidepressants ,0,2
+No medical problems,Accutane,1,4
+Ringworm,Immunomodulators,1,3
+Alopecia Areata ,Antifungal Cream,1,7
+Alopecia Areata ,Antifungal Cream,0,8
+Psoriasis,Chemotherapy,0,5
+Thyroid Problems,Antibiotics,0,5
+Androgenetic Alopecia,Antidepressants ,1,6
+Eczema,Antidepressants ,1,3
+Dermatitis,Antifungal Cream,0,5
+Eczema,Chemotherapy,0,6
+Alopecia Areata ,Steroids,0,3
+Dermatosis,Antidepressants ,1,7
+Thyroid Problems,Heart Medication ,0,8
+Thyroid Problems,Accutane,1,7
+Androgenetic Alopecia,Antibiotics,0,6
+Thyroid Problems,Antifungal Cream,0,2
+Seborrheic Dermatitis,Steroids,1,6
+No medical problems,Antidepressants ,1,7
+Psoriasis,Heart Medication ,0,6
+Scalp Infection,Chemotherapy,1,5
+Psoriasis,Rogaine,0,4
+Dermatitis,Heart Medication ,1,7
+Dermatitis,Accutane,1,3
+Seborrheic Dermatitis,Antidepressants ,1,5
+Thyroid Problems,Chemotherapy,1,5
+Androgenetic Alopecia,Steroids,1,3
+Eczema,Antidepressants ,0,5
+Eczema,Antifungal Cream,1,3
+Alopecia Areata ,Antidepressants ,1,6
+Androgenetic Alopecia,Rogaine,0,8
+No medical problems,Antibiotics,0,5
+Seborrheic Dermatitis,Blood Pressure Medication,0,3
+Alopecia Areata ,Heart Medication ,0,4
+Psoriasis,Heart Medication ,1,4
+Alopecia Areata ,Immunomodulators,0,5
+Androgenetic Alopecia,Antidepressants ,0,4
+Dermatosis,Antibiotics,0,3
+Thyroid Problems,Rogaine,0,3
+Ringworm,Immunomodulators,0,4
+Androgenetic Alopecia,Immunomodulators,0,4
+Alopecia Areata ,Chemotherapy,1,7
+Androgenetic Alopecia,Immunomodulators,1,9
+Eczema,Steroids,0,5
+Androgenetic Alopecia,Antibiotics,1,4
+No medical problems,Antifungal Cream,1,5
+Ringworm,Accutane,0,4
+Thyroid Problems,Blood Pressure Medication,0,8
+Psoriasis,Steroids,1,8
+No medical problems,Blood Pressure Medication,0,6
+Thyroid Problems,Heart Medication ,1,4
+Dermatosis,Chemotherapy,1,2
+Scalp Infection,Blood Pressure Medication,0,5
+Dermatitis,Heart Medication ,0,5
+Androgenetic Alopecia,Chemotherapy,0,4
+Alopecia Areata ,Immunomodulators,1,4
+Psoriasis,Rogaine,1,4
+Seborrheic Dermatitis,Chemotherapy,0,3
+Psoriasis,Immunomodulators,0,7
+Alopecia Areata ,Antibiotics,0,4
+Eczema,Heart Medication ,0,1
+Ringworm,Rogaine,1,5
+Seborrheic Dermatitis,Rogaine,1,7
+Androgenetic Alopecia,Antifungal Cream,0,5
+Seborrheic Dermatitis,Antifungal Cream,1,3
+Dermatitis,Rogaine,1,5
+Alopecia Areata ,Accutane,0,7
+Alopecia Areata ,Blood Pressure Medication,0,3
+Dermatitis,Blood Pressure Medication,0,3
+Eczema,Immunomodulators,1,3
+Scalp Infection,Rogaine,1,4
+Thyroid Problems,Immunomodulators,0,3
+Dermatosis,Rogaine,0,10
+No medical problems,Heart Medication ,1,5
+Dermatosis,Steroids,0,3
+Eczema,Rogaine,1,3
+Scalp Infection,Steroids,1,8
+No medical problems,Immunomodulators,0,4
+Eczema,Rogaine,0,4
+Psoriasis,Steroids,0,4
+Ringworm,Steroids,0,6
+Eczema,Antifungal Cream,0,1
+Scalp Infection,Antidepressants ,0,2
+Dermatitis,Immunomodulators,1,5
+Androgenetic Alopecia,Accutane,0,2
+Alopecia Areata ,Heart Medication ,1,4
+Thyroid Problems,Antibiotics,1,3
+Psoriasis,Antidepressants ,0,5
+Eczema,Accutane,1,2
+Scalp Infection,Blood Pressure Medication,1,2
+Psoriasis,Accutane,0,4
+Scalp Infection,Antibiotics,1,1
+Psoriasis,Blood Pressure Medication,0,6
+Scalp Infection,Accutane,0,3
+No medical problems,Steroids,0,5
+Dermatitis,Chemotherapy,1,2
+Psoriasis,Immunomodulators,1,2
+Ringworm,Chemotherapy,1,5
+Ringworm,Antidepressants ,1,2
+Alopecia Areata ,Rogaine,1,7
+Dermatosis,Steroids,1,2
+No medical problems,Rogaine,0,6
+Dermatitis,Antifungal Cream,1,6
+Dermatosis,Accutane,1,3
+Alopecia Areata ,Chemotherapy,0,3
+Scalp Infection,Heart Medication ,1,1
+Dermatitis,Antidepressants ,1,2
+Eczema,Blood Pressure Medication,1,1
+Eczema,Antibiotics,1,4
+Eczema,Immunomodulators,0,2
+Thyroid Problems,Blood Pressure Medication,1,3
+No medical problems,Accutane,0,9
+Scalp Infection,Accutane,1,4
+Ringworm,Chemotherapy,0,3
+Ringworm,Antibiotics,1,4
+Scalp Infection,Antifungal Cream,1,3
+Dermatitis,Blood Pressure Medication,1,3
+No medical problems,Rogaine,1,2
+Seborrheic Dermatitis,Immunomodulators,0,8
+Dermatitis,Immunomodulators,0,4
+Dermatitis,Accutane,0,4
+Alopecia Areata ,Antidepressants ,0,7
+Scalp Infection,Heart Medication ,0,3
+Scalp Infection,Steroids,0,2
+Seborrheic Dermatitis,Heart Medication ,0,2
+Thyroid Problems,Antifungal Cream,1,3
+Psoriasis,Antifungal Cream,1,4
+Ringworm,Accutane,1,1
+No medical problems,Antibiotics,1,4
+Scalp Infection,Antibiotics,0,2
+Androgenetic Alopecia,Blood Pressure Medication,1,2
+Ringworm,Blood Pressure Medication,1,2
+Eczema,Chemotherapy,1,1
+Dermatosis,Blood Pressure Medication,0,1
+Eczema,Accutane,0,1
